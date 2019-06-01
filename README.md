@@ -1,3 +1,4 @@
+<font face="微软雅黑" size=6 color=#FF0000 >该项目目前存在Bug，请勿下载</font>
 # ASP.NET Boilerplate VueJS Template
 
 The Vue.js integration for ABP Boilerplate framework. This template is built on Vue+iview+Typescript.
